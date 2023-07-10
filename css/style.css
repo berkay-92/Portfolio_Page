@@ -127,8 +127,9 @@ footer {
 }
 @media only screen and (max-width: 992px) {
   #left {
-    width: 90vw;
+    width: 60vw;
     height: 100%;
+    align-self: center;
   }
   .top {
     display: flex;
@@ -138,7 +139,7 @@ footer {
     width: 90vw;
   }
   #social {
-    width: 80vw;
+    width: 60vw;
   }
 }
 @media only screen and (max-width: 768px) {
